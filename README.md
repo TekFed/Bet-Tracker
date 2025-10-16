@@ -211,8 +211,3 @@ If you find this project useful:
 ---
 
 Made with ❤️ and Python for smarter betting insights.
-
----
-
-
-Made with ❤️ and Python for smarter bett
