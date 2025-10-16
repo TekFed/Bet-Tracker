@@ -104,7 +104,7 @@ Predicted Accuracy vs. Real: ✅ On Track
 ```
 ## 📈 Profit Chart Example:
 
-![Alt Text](performance_chart.png)
+![Alt Text](images/performance_chart.png)
 
 
 ---
@@ -149,11 +149,13 @@ Negative EV → unprofitable long term
 ```
 betting-tracker/
 │
-├── bet_tracker.py            # First bet tracker
-├── bet_tracker2.py           # Second bet tracker
-├── predictions_tracker.csv   # Auto-created data log
-├── README.md                 # This documentation file
-└── requirements.txt          # Dependencies (pandas, matplotlib)
+├── images
+       └── performance_chart.png        # a sample image of the performance chart
+├── bet_tracker.py                      # First bet tracker
+├── bet_tracker2.py                     # Second bet tracker
+├── predictions_tracker.csv             # Auto-created data log
+├── README.md                           # This documentation file
+└── requirements.txt                    # Dependencies (pandas, matplotlib)
 ```
 
 ---
